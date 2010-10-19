@@ -1,0 +1,4 @@
+whenidle v.prototype allows a program to be executed when computer is "idle".
+
+Currently it uses the X screensaver extension to determine if the user is idle
+or not.
